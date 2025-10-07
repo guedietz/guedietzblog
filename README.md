@@ -1,3 +1,1 @@
 # guedietzblog
-# guedietzblog
-# guedietzblog
