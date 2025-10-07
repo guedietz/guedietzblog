@@ -1,0 +1,8 @@
+baseURL: "test"
+languageCode: "en-us"
+title: "guedietz"
+theme: "PaperMod"
+
+params:
+  title: "guedietz"
+  description: "guedietz.com"
